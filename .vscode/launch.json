@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Java_abecdd7a"
+        },
+        {
+            "type": "java",
+            "name": "Boletim",
+            "request": "launch",
+            "mainClass": "Boletim",
+            "projectName": "Java_abecdd7a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
